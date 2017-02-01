@@ -2,8 +2,8 @@
 
 ### Day 1: February 1, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked on FreeCodeCamp's Front-End Development Certification and completed the jQuery section.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I haven't used jQuery for a project outside of school yet, but this refresher reminded me of how easy it is to use. Makes me want to create something new with it soon.
 
 **Link(s) to work:** [Day 001 Code](https://codepen.io/tiffanyadu/pen/egZXLM)
