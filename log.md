@@ -15,3 +15,11 @@
 **Thoughts:** This is my first time learning about const, let, and arrow function syntax. I understand they help to make JavaScript files smaller and easier to read, but I wonder if this is widely adopted yet? A bit confusing at the moment, but I'm sure it will make more sense as I continue. Feels great to be using JavaScript again though! It makes a bit more sense each time I use it.
 
 **Link(s) to work:** [JavaScript and the DOM] (http://codepen.io/tiffanyadu/pen/OWZPNG)
+
+### Day 3: February 3, 2017
+
+**Today's Progress**: Continued with the Full Stack JavaScript track at TeamTreehouse. Practiced interacting with the DOM - selecting elements, making changes, and responding to user interaction. 
+
+**Thoughts:** Starting to feel more confident about manipulating the DOM. My mind is already swirling with ideas of what I can use this for!
+
+**Link(s) to work:** [List Maker] (http://port-80-n04falmh5g.treehouse-app.com/)
