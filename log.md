@@ -30,3 +30,10 @@
 
 **Thoughts:** Excited to get a more thorough understanding of JavaScript! Took me a long time to figure out the challenge, but I still managed to write all the code on my own!
 
+### Day 5: February 5, 2017
+
+**Today's Progress**: Finished the practice challenge from yesterday. I styled the page and added some additional functionality that allows user input and kept track of the number of coffee and donuts purchased. Also used a table to show the itemized costs and included some response text that appears after a user submits the form.
+
+**Thoughts:** Had a bit of difficulty getting the correct tax amount to show up on the page, but after some fidgeting, I figured it out. Not too bad overall! Looking forward to some more JavaScript challenges.
+
+**Link(s) to work:** [Breakfast Run] (http://codepen.io/tiffanyadu/pen/oBybNw)
