@@ -26,7 +26,7 @@
 
 ### Day 4: February 4, 2017
 
-**Today's Progress**: Read chapter 1 of YDNJS and started working on the practice challenge. Writing a program that checks to see how much coffee and donuts you can buy with a certain budget, and whether or not you can afford it based on your wallet balance. I got the main part of the challenge completed and working, even went a little further with it, but still need to rework the layout a bit and finish up the styling. 
+**Today's Progress**: Read chapter 1 of YDKJS and started working on the practice challenge. Writing a program that checks to see how much coffee and donuts you can buy with a certain budget, and whether or not you can afford it based on your wallet balance. I got the main part of the challenge completed and working, even went a little further with it, but still need to rework the layout a bit and finish up the styling. 
 
 **Thoughts:** Excited to get a more thorough understanding of JavaScript! Took me a long time to figure out the challenge, but I still managed to write all the code on my own!
 
@@ -37,3 +37,9 @@
 **Thoughts:** Had a bit of difficulty getting the correct tax amount to show up on the page, but after some fidgeting, I figured it out. Not too bad overall! Looking forward to some more JavaScript challenges.
 
 **Link(s) to work:** [Breakfast Run] (http://codepen.io/tiffanyadu/pen/oBybNw)
+
+### Day 6: February 6, 2017
+
+**Today's Progress**: Read chapter 2 of YDKJS. Also completed the "JavaScript and the DOM" course of the Full Stack JavaScript track of TeamTreehouse, but got a bit stuck with the final coding challenge at the end. 
+
+**Thoughts:** Found the brief overview about closures to be a bit confusing. Hopefully, it will make more sense when I get to the later chapters of YDKJS. Regarding the final coding challenge, I will make another attempt at it tomorrow before sharing my solution. Hopefully, taking a step back and looking at it with fresh eyes will help.
