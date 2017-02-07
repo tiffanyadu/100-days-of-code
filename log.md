@@ -50,4 +50,4 @@
 
 **Thoughts:** Finally managed to finish that coding challenge! It took me a while to figure out how to update the buttons that show up after each list item, especially after the user rearranges the list. I had to rewrite a lot of the original code, but I think my solution is still clean and easy to read.
 
-**Link(s) to work:** [List Maker] (http://codepen.io/tiffanyadu/pen/MJqyRv)
+**Link(s) to work:** [List Maker V2] (http://codepen.io/tiffanyadu/pen/MJqyRv)
