@@ -43,3 +43,11 @@
 **Today's Progress**: Read chapter 2 of YDKJS. Also completed the "JavaScript and the DOM" course of the Full Stack JavaScript track of TeamTreehouse, but got a bit stuck with the final coding challenge at the end. 
 
 **Thoughts:** Found the brief overview about closures to be a bit confusing. Hopefully, it will make more sense when I get to the later chapters of YDKJS. Regarding the final coding challenge, I will make another attempt at it tomorrow before sharing my solution. Hopefully, taking a step back and looking at it with fresh eyes will help.
+
+### Day 7: February 7, 2017
+
+**Today's Progress**: Finished YDKJS: Up & Going and read Chapter 1 of YDKJS: Scope & Closures. Completed coding challenge from yesterday!
+
+**Thoughts:** Finally managed to finish that coding challenge! It took me a while to figure out how to update the buttons that show up after each list item, especially after the user rearranges the list. I had to rewrite a lot of the original code, but I think my solution is still clean and easy to read.
+
+**Link(s) to work:** [List Maker] (http://codepen.io/tiffanyadu/pen/MJqyRv)
