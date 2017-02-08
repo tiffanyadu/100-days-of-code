@@ -54,8 +54,6 @@
 
 ### Day 8: February 8, 2017
 
-**Today's Progress**: Read Chapter 2 of YDKJS: Scope & Closures. 
+**Today's Progress**: Read Chapter 2 of YDKJS: Scope & Closures. Jumped back to FCC and started working on the personal portfolio page project using Bootstrap. Implemented a fixed navbar with a collapsible menu and slowly building out the page elements in HTML.
 
-**Thoughts:** 
-
-**Link(s) to work:** [] ()
+**Thoughts:** I've been avoiding my portfolio website for way too long! It's about time I work on this, even if it's just a simple 1-page site - I can always add to it later on.
