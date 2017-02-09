@@ -57,3 +57,9 @@
 **Today's Progress**: Read Chapter 2 of YDKJS: Scope & Closures. Jumped back to FCC and started working on the personal portfolio page project using Bootstrap. Implemented a fixed navbar with a collapsible menu and slowly building out the page elements in HTML.
 
 **Thoughts:** I've been avoiding my portfolio website for way too long! It's about time I work on this, even if it's just a simple 1-page site - I can always add to it later on.
+
+### Day 9: February 9, 2017
+
+**Today's Progress**: Read Chapter 3 of YDKJS: Scope & Closures. Finished structuring portfolio page with HTML elements and began adding styles.
+
+**Thoughts:** This page came together a lot quicker than I expected, but I think it really helped that I designed the layout ahead of time. Since I didn't have to make any design decisions on the fly, I was able to put all my focus on the code itself. 
