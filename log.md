@@ -63,3 +63,9 @@
 **Today's Progress**: Read Chapter 3 of YDKJS: Scope & Closures. Finished structuring portfolio page with HTML elements and began adding styles.
 
 **Thoughts:** This page came together a lot quicker than I expected, but I think it really helped that I designed the layout ahead of time. Since I didn't have to make any design decisions on the fly, I was able to put all my focus on the code itself. 
+
+### Day 10: February 10, 2017
+
+**Today's Progress**: Finished reading YDKJS: Scope & Closures! 
+
+**Thoughts:** Didn't have enough time to do any coding today, but hopefully I can make up for it when I get back from NYC.
