@@ -69,3 +69,21 @@
 **Today's Progress**: Finished reading YDKJS: Scope & Closures! 
 
 **Thoughts:** Didn't have enough time to do any coding today, but hopefully I can make up for it when I get back from NYC.
+
+### Day 11: February 11, 2017
+
+**Today's Progress**: Read Chapter 1 of YDKJS: This & Object Prototypes. Also did a bit more styling on the portfolio page.
+
+**Thoughts:** I didn't get much coding done today either since I'm flying out to NYC for a quick vacation. Unfortunately, I think I need to take a break from this while I'm there since it will be difficult to find time to work on anything. I will do my best to make up for it when I get back home though!
+
+### Day 12: February 18, 2017
+
+**Today's Progress**: Worked on styling my portfolio page again. Styled the typography and buttons with hover animation. Also adjusted the spacing between elements.
+
+**Thoughts:** Took a longer break than I wanted to. I caught a terrible cold on my last day in NYC and am still not feeling great, but wanted to get back on this. Feels good to be coding again, finally!
+
+### Day 13: February 19, 2017
+
+**Today's Progress**: Continued working on the portfolio page. Started styling the navigation and coded a full-cover background image with transparent overlay. 
+
+**Thoughts:** I was having problems with Brackets so now I'm trying out Sublime Text. Feeling quite slow as I'm getting familiar with Sublime, but also I really miss having that Live Preview feature. Anyways, just plugging along on the styling. Next step is figuring out how to make the navbar fixed on scroll!
