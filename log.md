@@ -87,3 +87,9 @@
 **Today's Progress**: Continued working on the portfolio page. Started styling the navigation and coded a full-cover background image with transparent overlay. 
 
 **Thoughts:** I was having problems with Brackets so now I'm trying out Sublime Text. Feeling quite slow as I'm getting familiar with Sublime, but also I really miss having that Live Preview feature. Anyways, just plugging along on the styling. Next step is figuring out how to make the navbar fixed on scroll!
+
+### Day 14: February 20, 2017
+
+**Today's Progress**: Mostly worked on styling the navbar today. Now, after scrolling past the navbar, a class is added to it, giving it some additional styling and making it fixed to the top. 
+
+**Thoughts:** It didn't take too long to figure out how I was going to code this part, but I still wasn't quite sure how to write the JavaScript code on my own. It definitely helped a lot to see examples of how other people did it. 
