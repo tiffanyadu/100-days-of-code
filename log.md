@@ -93,3 +93,9 @@
 **Today's Progress**: Mostly worked on styling the navbar today. Now, after scrolling past the navbar, a class is added to it, giving it some additional styling and making it fixed to the top. 
 
 **Thoughts:** It didn't take too long to figure out how I was going to code this part, but I still wasn't quite sure how to write the JavaScript code on my own. It definitely helped a lot to see examples of how other people did it. 
+
+### Day 15: February 21, 2017
+
+**Today's Progress**: Needed a break from the portfolio page, so I continued with the FreeCodeCamp tutorials. Completed the Basic JavaScript and Object Oriented and Function Programming sections.
+
+**Thoughts:** I started off the day working on the mobile view of the portfolio navigation. Didn't get too much done because I got stuck troubleshooting a bug where the menu items weren't showing up. After I figured out what was wrong, I started adding some styles and switching out classes using JavaScript and jQuery. I realized I was a bit rusty, so I decided to switch over and do some tutorials for the rest of the day.
