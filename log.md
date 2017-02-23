@@ -99,3 +99,9 @@
 **Today's Progress**: Needed a break from the portfolio page, so I continued with the FreeCodeCamp tutorials. Completed the Basic JavaScript and Object Oriented and Function Programming sections.
 
 **Thoughts:** I started off the day working on the mobile view of the portfolio navigation. Didn't get too much done because I got stuck troubleshooting a bug where the menu items weren't showing up. After I figured out what was wrong, I started adding some styles and switching out classes using JavaScript and jQuery. I realized I was a bit rusty, so I decided to switch over and do some tutorials for the rest of the day.
+
+### Day 16: February 22, 2017
+
+**Today's Progress**: Finished working on the mobile nav styling and functionality, styled all the buttons, and added a Twitter widget to footer. Started building a modal for the contact form.
+
+**Thoughts:** Still finding Bootstrap to be a bit tricky to customize, but luckily most answers are a quick Google search away. Also, feeling a bit more confident with JavaScript and jQuery since I've been working on the functionality of the navigation.
