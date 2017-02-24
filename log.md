@@ -105,3 +105,15 @@
 **Today's Progress**: Finished working on the mobile nav styling and functionality, styled all the buttons, and added a Twitter widget to footer. Started building a modal for the contact form.
 
 **Thoughts:** Still finding Bootstrap to be a bit tricky to customize, but luckily most answers are a quick Google search away. Also, feeling a bit more confident with JavaScript and jQuery since I've been working on the functionality of the navigation.
+
+### Day 17: February 23, 2017
+
+**Today's Progress**: Working on the algorithm challenges at FreeCodeCamp. 
+
+**Thoughts:** The palindrome challenge really had me stumped! I couldn't quite figure out how to use the replace method and couldn't really make sense of the regular expressions, so I had to go searching for help. When I saw someone else's solution, I was surprised that it was only a few lines of code! Unfortunately, this means I didn't get to solve this challenge on my own. Hopefully my brain will start thinking more like a programmer over time.
+
+### Day 18: February 24, 2017
+
+**Today's Progress**: Completed the algorithm challenges + the JSON APIs and AJAX section at FreeCodeCamp. 
+
+**Thoughts:** Those algorithm challenges were pretty fun! Definitely helped me get more familiar with some JavaScript methods and exercise my programming problem-solving skills. I only wish I could've created something more useful in the process, but I'm sure that will come later on. 
