@@ -7,6 +7,7 @@
 **Thoughts:** I haven't used jQuery for a project outside of school yet, but this refresher reminded me of how easy it is to use. I used a bit of jQuery for the tribute page, but want to try out some animation effects tomorrow.
 
 **Link to tweet:** [Day 001](https://twitter.com/dusign/status/826976530475659265)
+
 **Link to work:** [Twenty One Pilots Tribute Page](http://codepen.io/tiffanyadu/pen/RKMavV)
 
 ### Day 2: February 2, 2017
@@ -16,6 +17,7 @@
 **Thoughts:** This is my first time learning about const, let, and arrow function syntax. I understand they help to make JavaScript files smaller and easier to read, but I wonder if this is widely adopted yet? A bit confusing at the moment, but I'm sure it will make more sense as I continue. Feels great to be using JavaScript again though! It makes a bit more sense each time I use it.
 
 **Link to tweet:** [Day 002](https://twitter.com/dusign/status/827282740634492930)
+
 **Link to work:** [JavaScript and the DOM](http://codepen.io/tiffanyadu/pen/OWZPNG)
 
 ### Day 3: February 3, 2017
@@ -41,6 +43,7 @@
 **Thoughts:** Had a bit of difficulty getting the correct tax amount to show up on the page, but after some fidgeting, I figured it out. Not too bad overall! Looking forward to some more JavaScript challenges.
 
 **Link to tweet:** [Day 005](https://twitter.com/dusign/status/828365121965715457)
+
 **Link to work:** [Breakfast Run] (http://codepen.io/tiffanyadu/pen/oBybNw)
 
 ### Day 6: February 6, 2017
@@ -58,6 +61,7 @@
 **Thoughts:** Finally managed to finish that coding challenge! It took me a while to figure out how to update the buttons that show up after each list item, especially after the user rearranges the list. I had to rewrite a lot of the original code, but I think my solution is still clean and easy to read.
 
 **Link to tweet:** [Day 007](https://twitter.com/dusign/status/829085225116434433)
+
 **Link to work:** [List Maker] (http://codepen.io/tiffanyadu/pen/MJqyRv)
 
 ### Day 8: February 8, 2017
