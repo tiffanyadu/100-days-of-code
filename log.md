@@ -151,3 +151,19 @@
 **Thoughts:** Those algorithm challenges were pretty fun! Definitely helped me get more familiar with some JavaScript methods and exercise my programming problem-solving skills. I only wish I could've created something more useful in the process, but I'm sure that will come later on. 
 
 **Link to tweet:** [Day 018](https://twitter.com/dusign/status/835267341122482176)
+
+### Day 19: February 25, 2017
+
+**Today's Progress**: Styled the project section with hover effects and started working on the contact modal. Also finished the Intro to jQuery course at Treehouse and tested out an After Effects plugin called Bodymovin.
+
+**Thoughts:** Although Bodymovin only allows limited types of animation effects, it's still exciting to see how After Effects can be used in conjunction with front-end development! Since my husband is a motion graphic designer, this might finally give us a chance to collaborate on a project.
+
+**Link to tweet:** [Day 019](https://twitter.com/dusign/status/835667768091504640)
+
+### Day 20: February 26, 2017
+
+**Today's Progress**: Finished the contact form and started coding the resume and project modals. Also ended up changing the button styles.
+
+**Thoughts:** Feeling pretty frustrated today because I spent so much time trying to fix a bug and getting nowhere with it. Hopefully I can figure something out tomorrow, otherwise I will have to redo that part.
+
+**Link to tweet:** [Day 020](https://twitter.com/dusign/status/836035149179539456)
