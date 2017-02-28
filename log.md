@@ -167,3 +167,11 @@
 **Thoughts:** Feeling pretty frustrated today because I spent so much time trying to fix a bug and getting nowhere with it. Hopefully I can figure something out tomorrow, otherwise I will have to redo that part.
 
 **Link to tweet:** [Day 020](https://twitter.com/dusign/status/836035149179539456)
+
+### Day 21: February 27, 2017
+
+**Today's Progress**: Started writing the About Me copy. Also moved it from the footer to the first section of the page and styled it for each breakpoint.
+
+**Thoughts:** I decided to move the About Me section to the top so the flow of content makes more sense. Still need to re-work the portfolio section though since I couldn't figure out how to fix the bug.
+
+**Link to tweet:** [Day 021](https://twitter.com/dusign/status/836415465522151424)
