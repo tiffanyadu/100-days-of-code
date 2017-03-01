@@ -172,6 +172,14 @@
 
 **Today's Progress**: Started writing the About Me copy. Also moved it from the footer to the first section of the page and styled it for each breakpoint.
 
-**Thoughts:** I decided to move the About Me section to the top so the flow of content makes more sense. Still need to re-work the portfolio section though since I couldn't figure out how to fix the bug.
+**Thoughts:** I decided to move the About Me section to the top so the flow of content makes more sense. Still need to rework the portfolio section though since I couldn't figure out how to fix the bug.
 
 **Link to tweet:** [Day 021](https://twitter.com/dusign/status/836415465522151424)
+
+### Day 22: February 28, 2017
+
+**Today's Progress**: Started reworking the portfolio section into a carousel and finished the Git Basics course at Treehouse.
+
+**Thoughts:** I decided it would be a good idea to start using Github for my portfolio project since it's getting pretty big. Since I'm working on some new features, it only makes sense for me to do this so I don't lose my previous code, if I end up changing my mind. Plus, this is a great chance for me to practice version control and using Git with the command line. It's still a tiny bit confusing at the moment, but it should clear up once I start using it more.
+
+**Link to tweet:** [Day 021](https://twitter.com/dusign/status/836696001473888256)
