@@ -182,4 +182,12 @@
 
 **Thoughts:** I decided it would be a good idea to start using Github for my portfolio project since it's getting pretty big. Since I'm working on some new features, it only makes sense for me to do this so I don't lose my previous code, if I end up changing my mind. Plus, this is a great chance for me to practice version control and using Git with the command line. It's still a tiny bit confusing at the moment, but it should clear up once I start using it more.
 
-**Link to tweet:** [Day 021](https://twitter.com/dusign/status/836696001473888256)
+**Link to tweet:** [Day 022](https://twitter.com/dusign/status/836696001473888256)
+
+### Day 23: March 1, 2017
+
+**Today's Progress**: Coded and styled a carousel for the portfolio section. Also went back to the Tribute page and started adding a fixed nav.
+
+**Thoughts:** Feeling good about my progress today! This portfolio carousel is shaping up and is NEARLY done, but I still want to go back and tweak a couple things. Also, since I decided to add the tribute page to my portfolio, I thought it needed a fixed nav since the page was quite long. Will finish up tomorrow!
+
+**Link to tweet:** [Day 023](https://twitter.com/dusign/status/837157960996515842)
