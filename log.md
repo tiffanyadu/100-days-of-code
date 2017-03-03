@@ -191,3 +191,11 @@
 **Thoughts:** Feeling good about my progress today! This portfolio carousel is shaping up and is NEARLY done, but I still want to go back and tweak a couple things. Also, since I decided to add the tribute page to my portfolio, I thought it needed a fixed nav since the page was quite long. Will finish up tomorrow!
 
 **Link to tweet:** [Day 023](https://twitter.com/dusign/status/837157960996515842)
+
+### Day 24: March 2, 2017
+
+**Today's Progress**: Finished the nav for the Tribute page and also fixed a few bugs. On the portfolio page, started working on the project modals' content and styling.
+
+**Thoughts:** I think adding the nav to the Tribute page was great practice for me. Since I wanted the functionality of the nav to be similar to the one I created for my portfolio, doing it a second time really helped to reinforce what I learned the first time around.
+
+**Link to tweet:** [Day 024](https://twitter.com/dusign/status/837473477682675713)
