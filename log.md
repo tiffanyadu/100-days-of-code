@@ -199,3 +199,19 @@
 **Thoughts:** I think adding the nav to the Tribute page was great practice for me. Since I wanted the functionality of the nav to be similar to the one I created for my portfolio, doing it a second time really helped to reinforce what I learned the first time around.
 
 **Link to tweet:** [Day 024](https://twitter.com/dusign/status/837473477682675713)
+
+### Day 25: March 3, 2017
+
+**Today's Progress**: Worked on the project modals today. Started creating the content and copy for each project and styled the project modals.
+
+**Thoughts:** Can't believe I'm already a quarter of the way done with this challenge! It's exciting to see my progress, and I'm particularly happy that this motivated me to finally work on my portfolio website. I can't wait to see how much I've learned by the time this hundred days are over!
+
+**Link to tweet:** [Day 025](https://twitter.com/dusign/status/837888488448143361)
+
+### Day 26: March 4, 2017
+
+**Today's Progress**: Worked on an older project for my husband today and spent way too much time trying to fix a bug. Decided to change direction for now so I can keep moving forward.
+
+**Thoughts:** I got super frustrated trying to fix that tiny bug! After fidgeting with the code for over an hour, I decided it wasn't worth my time. I was trying to use Gifffer, a small JavaScript library that prevents animated GIFs from autoplaying, with Bootstrap 4, and couldn't figure out what was causing the extra 5px padding on the bottom of each GIF. Need to find an alternative solution to this, but for now, I just have all the GIFs autoplaying on the page.
+
+**Link to tweet:** [Day 026](https://twitter.com/dusign/status/838202699715907584)
