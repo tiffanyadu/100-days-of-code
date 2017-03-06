@@ -215,3 +215,11 @@
 **Thoughts:** I got super frustrated trying to fix that tiny bug! After fidgeting with the code for over an hour, I decided it wasn't worth my time. I was trying to use Gifffer, a small JavaScript library that prevents animated GIFs from autoplaying, with Bootstrap 4, and couldn't figure out what was causing the extra 5px padding on the bottom of each GIF. Need to find an alternative solution to this, but for now, I just have all the GIFs autoplaying on the page.
 
 **Link to tweet:** [Day 026](https://twitter.com/dusign/status/838202699715907584)
+
+### Day 27: March 5, 2017
+
+**Today's Progress**: Finished styling the project modals and started creating/writing content for each project. Also went back to that older project from yesterday to try and figure out the best way to present animated GIFs on a webpage.
+
+**Thoughts:** I think I'm done fidgeting with the project modals for now. I need to constantly remind myself to keep things simple and just get this done ASAP! I can always go back and add to it if I want, but it's much more important that I FINISH my portfolio website so I can finally start applying for jobs.
+
+**Link to tweet:** [Day 027](https://twitter.com/dusign/status/838549020733747200)
