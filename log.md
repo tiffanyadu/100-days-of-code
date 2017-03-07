@@ -223,3 +223,11 @@
 **Thoughts:** I think I'm done fidgeting with the project modals for now. I need to constantly remind myself to keep things simple and just get this done ASAP! I can always go back and add to it if I want, but it's much more important that I FINISH my portfolio website so I can finally start applying for jobs.
 
 **Link to tweet:** [Day 027](https://twitter.com/dusign/status/838549020733747200)
+
+### Day 28: March 6, 2017
+
+**Today's Progress**: Haven't been learning a whole lot lately, so I decided to do some tutorials at Treehouse. Learned about modules and completed the Intro to ES2015 course. Read Chapter 2 of YDKJS Book 3 (this & Object Prototypes) and learned more about how to determine what the "this" keyword is referencing. Also worked on the older project (TMS) again - updated the page to use the latest version of Bootstrap 4 and finally got all the GIFs working the way I wanted (using Gifffer)!
+
+**Thoughts:** Although I can see the advantages of modules and ES2015, I'm not really sure how or when I should be using them - need to learn more! Regarding the TMS project, I'm so happy to finally get the GIFs working and looking good! This is pretty much done for now. The next step is to convert it into a Wordpress theme so my husband can easily update it and add new GIFs himself.
+
+**Link to tweet:** [Day 028](https://twitter.com/dusign/status/838956998016307200)
