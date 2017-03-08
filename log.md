@@ -231,3 +231,11 @@
 **Thoughts:** Although I can see the advantages of modules and ES2015, I'm not really sure how or when I should be using them - need to learn more! Regarding the TMS project, I'm so happy to finally get the GIFs working and looking good! This is pretty much done for now. The next step is to convert it into a Wordpress theme so my husband can easily update it and add new GIFs himself.
 
 **Link to tweet:** [Day 028](https://twitter.com/dusign/status/838956998016307200)
+
+### Day 29: March 7, 2017
+
+**Today's Progress**: Mostly worked on creating/writing the content for my portfolio today. The project modals are done for now, and I started working on the Resume modal.
+
+**Thoughts:** I'm excited that the end is finally in sight! Only a few more things to do before I can upload and share my portfolio website. There are some extra features I would like to add to it, but I just really need to get a basic website up for now.
+
+**Link to tweet:** [Day 029](https://twitter.com/dusign/status/839350267959259136)
