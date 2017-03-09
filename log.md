@@ -239,3 +239,11 @@
 **Thoughts:** I'm excited that the end is finally in sight! Only a few more things to do before I can upload and share my portfolio website. There are some extra features I would like to add to it, but I just really need to get a basic website up for now.
 
 **Link to tweet:** [Day 029](https://twitter.com/dusign/status/839350267959259136)
+
+### Day 30: March 8, 2017
+
+**Today's Progress**: Finished styling the resume and contact modals. Also validated all my code and tried to fix as many errors as possible. 
+
+**Thoughts:** The only thing left to do before I can publish my portfolio site is to make the contact form work! I can't wait to be done with this and start a new project!
+
+**Link to tweet:** [Day 030](https://twitter.com/dusign/status/839664094827409408)
