@@ -247,3 +247,11 @@
 **Thoughts:** The only thing left to do before I can publish my portfolio site is to make the contact form work! I can't wait to be done with this and start a new project!
 
 **Link to tweet:** [Day 030](https://twitter.com/dusign/status/839664094827409408)
+
+### Day 31: March 9, 2017
+
+**Today's Progress**: Converted website to use PHP and tried to make it more modular. Trying to make the contact form work.
+
+**Thoughts:** I haven't touched PHP in over a year so I'm feeling pretty rusty. I really love this language though, so it's great to get some practice in right now. Having some difficulties figuring out how to submit the form within a modal, so I'll have to look at it again tomorrow.
+
+**Link to tweet:** [Day 031](https://twitter.com/dusign/status/840049934271422469)
