@@ -22,7 +22,7 @@
 
 ### Day 3: February 3, 2017
 
-**Today's Progress**: Continued with the Full Stack JavaScript track at TeamTreehouse. Practiced interacting with the DOM - selecting elements, making changes, and responding to user interaction. 
+**Today's Progress**: Continued with the Full Stack JavaScript track at TeamTreehouse. Practiced interacting with the DOM - selecting elements, making changes, and responding to user interaction.
 
 **Thoughts:** Starting to feel more confident about manipulating the DOM. My mind is already swirling with ideas of what I can use this for!
 
@@ -30,7 +30,7 @@
 
 ### Day 4: February 4, 2017
 
-**Today's Progress**: Read chapter 1 of YDKJS and started working on the practice challenge. Writing a program that checks to see how much coffee and donuts you can buy with a certain budget, and whether or not you can afford it based on your wallet balance. I got the main part of the challenge completed and working, even went a little further with it, but still need to rework the layout a bit and finish up the styling. 
+**Today's Progress**: Read chapter 1 of YDKJS and started working on the practice challenge. Writing a program that checks to see how much coffee and donuts you can buy with a certain budget, and whether or not you can afford it based on your wallet balance. I got the main part of the challenge completed and working, even went a little further with it, but still need to rework the layout a bit and finish up the styling.
 
 **Thoughts:** Excited to get a more thorough understanding of JavaScript! Took me a long time to figure out the challenge, but I still managed to write all the code on my own!
 
@@ -48,7 +48,7 @@
 
 ### Day 6: February 6, 2017
 
-**Today's Progress**: Read chapter 2 of YDKJS. Also completed the "JavaScript and the DOM" course of the Full Stack JavaScript track of TeamTreehouse, but got a bit stuck with the final coding challenge at the end. 
+**Today's Progress**: Read chapter 2 of YDKJS. Also completed the "JavaScript and the DOM" course of the Full Stack JavaScript track of TeamTreehouse, but got a bit stuck with the final coding challenge at the end.
 
 **Thoughts:** Found the brief overview about closures to be a bit confusing. Hopefully, it will make more sense when I get to the later chapters of YDKJS. Regarding the final coding challenge, I will make another attempt at it tomorrow before sharing my solution. Hopefully, taking a step back and looking at it with fresh eyes will help.
 
@@ -76,13 +76,13 @@
 
 **Today's Progress**: Read Chapter 3 of YDKJS: Scope & Closures. Finished structuring portfolio page with HTML elements and began adding styles.
 
-**Thoughts:** This page came together a lot quicker than I expected, but I think it really helped that I designed the layout ahead of time. Since I didn't have to make any design decisions on the fly, I was able to put all my focus on the code itself. 
+**Thoughts:** This page came together a lot quicker than I expected, but I think it really helped that I designed the layout ahead of time. Since I didn't have to make any design decisions on the fly, I was able to put all my focus on the code itself.
 
 **Link to tweet:** [Day 009](https://twitter.com/dusign/status/829831828030836738)
 
 ### Day 10: February 10, 2017
 
-**Today's Progress**: Finished reading YDKJS: Scope & Closures! 
+**Today's Progress**: Finished reading YDKJS: Scope & Closures!
 
 **Thoughts:** Didn't have enough time to do any coding today, but hopefully I can make up for it when I get back from NYC.
 
@@ -106,7 +106,7 @@
 
 ### Day 13: February 19, 2017
 
-**Today's Progress**: Continued working on the portfolio page. Started styling the navigation and coded a full-cover background image with transparent overlay. 
+**Today's Progress**: Continued working on the portfolio page. Started styling the navigation and coded a full-cover background image with transparent overlay.
 
 **Thoughts:** I was having problems with Brackets so now I'm trying out Sublime Text. Feeling quite slow as I'm getting familiar with Sublime, but also I really miss having that Live Preview feature. Anyways, just plugging along on the styling. Next step is figuring out how to make the navbar fixed on scroll!
 
@@ -114,9 +114,9 @@
 
 ### Day 14: February 20, 2017
 
-**Today's Progress**: Mostly worked on styling the navbar today. Now, after scrolling past the navbar, a class is added to it, giving it some additional styling and making it fixed to the top. 
+**Today's Progress**: Mostly worked on styling the navbar today. Now, after scrolling past the navbar, a class is added to it, giving it some additional styling and making it fixed to the top.
 
-**Thoughts:** It didn't take too long to figure out how I was going to code this part, but I still wasn't quite sure how to write the JavaScript code on my own. It definitely helped a lot to see examples of how other people did it. 
+**Thoughts:** It didn't take too long to figure out how I was going to code this part, but I still wasn't quite sure how to write the JavaScript code on my own. It definitely helped a lot to see examples of how other people did it.
 
 **Link to tweet:** [Day 014](https://twitter.com/dusign/status/833909590517489664)
 
@@ -138,7 +138,7 @@
 
 ### Day 17: February 23, 2017
 
-**Today's Progress**: Working on the algorithm challenges at FreeCodeCamp. 
+**Today's Progress**: Working on the algorithm challenges at FreeCodeCamp.
 
 **Thoughts:** The palindrome challenge really had me stumped! I couldn't quite figure out how to use the replace method and couldn't really make sense of the regular expressions, so I had to go searching for help. When I saw someone else's solution, I was surprised that it was only a few lines of code! Unfortunately, this means I didn't get to solve this challenge on my own. Hopefully my brain will start thinking more like a programmer over time.
 
@@ -146,9 +146,9 @@
 
 ### Day 18: February 24, 2017
 
-**Today's Progress**: Completed the algorithm challenges + the JSON APIs and AJAX section at FreeCodeCamp. 
+**Today's Progress**: Completed the algorithm challenges + the JSON APIs and AJAX section at FreeCodeCamp.
 
-**Thoughts:** Those algorithm challenges were pretty fun! Definitely helped me get more familiar with some JavaScript methods and exercise my programming problem-solving skills. I only wish I could've created something more useful in the process, but I'm sure that will come later on. 
+**Thoughts:** Those algorithm challenges were pretty fun! Definitely helped me get more familiar with some JavaScript methods and exercise my programming problem-solving skills. I only wish I could've created something more useful in the process, but I'm sure that will come later on.
 
 **Link to tweet:** [Day 018](https://twitter.com/dusign/status/835267341122482176)
 
@@ -242,7 +242,7 @@
 
 ### Day 30: March 8, 2017
 
-**Today's Progress**: Finished styling the resume and contact modals. Also validated all my code and tried to fix as many errors as possible. 
+**Today's Progress**: Finished styling the resume and contact modals. Validated all my code and tried to fix as many errors as possible. Also started the Node.js Basics course at Treehouse.
 
 **Thoughts:** The only thing left to do before I can publish my portfolio site is to make the contact form work! I can't wait to be done with this and start a new project!
 
@@ -255,3 +255,11 @@
 **Thoughts:** I haven't touched PHP in over a year so I'm feeling pretty rusty. I really love this language though, so it's great to get some practice in right now. Having some difficulties figuring out how to submit the form within a modal, so I'll have to look at it again tomorrow.
 
 **Link to tweet:** [Day 031](https://twitter.com/dusign/status/840049934271422469)
+
+### Day 32: March 10, 2017
+
+**Today's Progress**: Finished the Node.js Basics course at Treehouse and completed the HTTP Basics course since it was recommended. Built out 2 small command line applications: 1 that retrieves info from a Treehouse profile and another that gets the current weather using the Wunderground API. Will pick back up on that contact form tomorrow!
+
+**Thoughts:** It's awesome that I finally got to learn node.js because I see it mentioned everywhere and now I kind of understand what it does! Surprisingly, it's not too difficult so far, but I'm more interested to see what I can do with it outside of the command line.
+
+**Link to tweet:** [Day 032](https://twitter.com/dusign/status/840349971966767104)
