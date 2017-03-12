@@ -263,3 +263,11 @@
 **Thoughts:** It's awesome that I finally got to learn node.js because I see it mentioned everywhere and now I kind of understand what it does! Surprisingly, it's not too difficult so far, but I'm more interested to see what I can do with it outside of the command line.
 
 **Link to tweet:** [Day 032](https://twitter.com/dusign/status/840349971966767104)
+
+### Day 33: March 11, 2017
+
+**Today's Progress**: Started a new course on Treehouse called "Building a Simple Dynamic Site with Node.js" and continued working on the contact form functionality.
+
+**Thoughts:** The contact form wasn't submitting correctly with just PHP - I'm thinking it's because the contact form is in a modal? Not too sure, but it seems like I will need to use jQuery and AJAX to get this working so the form submits and shows a success message without needing to refresh the page.
+
+**Link to tweet:** [Day 033](https://twitter.com/dusign/status/840734615669223424)
