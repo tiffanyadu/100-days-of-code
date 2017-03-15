@@ -271,3 +271,27 @@
 **Thoughts:** The contact form wasn't submitting correctly with just PHP - I'm thinking it's because the contact form is in a modal? Not too sure, but it seems like I will need to use jQuery and AJAX to get this working so the form submits and shows a success message without needing to refresh the page.
 
 **Link to tweet:** [Day 033](https://twitter.com/dusign/status/840734615669223424)
+
+### Day 34: March 12, 2017
+
+**Today's Progress**: Worked on a Facebook Live template for counting reactions.
+
+**Thoughts:** I'm very interested in how interactive these reaction counters can get. Not too difficult to modify, but it seems difficult to test without having to go live.
+
+**Link to tweet:** [Day 034](https://twitter.com/dusign/status/841051900783009797)
+
+### Day 35: March 13, 2017
+
+**Today's Progress**: Tried working on the contact form functionality again, but didn't make much progress.
+
+**Thoughts:** It seems like my modal form doesn't "submit" for some reason, but I was able to get some response when listening for both "submit" AND "click". Slowly getting somewhere, but I think the AJAX code needs more work.
+
+**Link to tweet:** [Day 035](https://twitter.com/dusign/status/841505453406343170)
+
+### Day 36: March 14, 2017
+
+**Today's Progress**: Joined LambdaSchool's free JavaScript mini bootcamp. Missed the first live stream yesterday, so I caught up on that and watched the second one tonight. Finished the JavaScript exercises for the first assignment and also helped my husband update his website.
+
+**Thoughts:** So far, this mini bootcamp is a bit too easy for me, but it's nice to get a community and to see how the instructor uses Github and Node.js. I was able to complete the first assignment of 25 JavaScript exercises in about 5-10 minutes though, so that makes me feel pretty confident that I at least know the basics.
+
+**Link to tweet:** [Day 036](https://twitter.com/dusign/status/842025434497859585)
