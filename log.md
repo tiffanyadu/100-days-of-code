@@ -295,3 +295,43 @@
 **Thoughts:** So far, this mini bootcamp is a bit too easy for me, but it's nice to get a community and to see how the instructor uses Github and Node.js. I was able to complete the first assignment of 25 JavaScript exercises in about 5-10 minutes though, so that makes me feel pretty confident that I at least know the basics.
 
 **Link to tweet:** [Day 036](https://twitter.com/dusign/status/842025434497859585)
+
+### Day 37: March 15, 2017
+
+**Today's Progress**: Day 3 of the LambdaSchool JS mini bootcamp. Finished the JavaScript exercises for the second assignment.
+
+**Thoughts:** Didn't have much time to code tonight, but I did finish the homework for the bootcamp. The exercises were still pretty easy, but I did get tripped up by one where I had to write a function that checks if a number is prime or not.
+
+**Link to tweet:** [Day 037](https://twitter.com/dusign/status/842232054490255360)
+
+### Day 38: March 16, 2017
+
+**Today's Progress**: Used MonkeyTestIt to test my website and got my portfolio's contact form to work!
+
+**Thoughts:** So happy that I finally managed to get my contact form to send messages! Turns out I just had a tiny typo in the mail.php file - instead of "$mail", I typed "$main". Nearly done with my portfolio site at this point!
+
+**Link to tweet:** [Day 038](https://twitter.com/dusign/status/842530481166016516)
+
+### Day 39: March 17, 2017
+
+**Today's Progress**: Learned about recursive functions for the first time, and completed the last two assignments for the LambdaSchool mini bootcamp.
+
+**Thoughts:** These last two sets of JavaScript exercises were actually a bit of a challenge. I had to refer to the MDN docs constantly and, in the process, learned a few new useful methods. Feels good to be more comfortable with those docs now because, previously, they felt more confusing than helpful.
+
+**Link to tweet:** [Day 039](https://twitter.com/dusign/status/842876900267704320)
+
+### Day 40: March 18, 2017
+
+**Today's Progress**: Finished and launched my portfolio site! Also started the random quote machine project for FreeCodeCamp.
+
+**Thoughts:** SO happy that I'm finally done with my portfolio site! It took a long time, but it was worth it. Now, I can start looking/applying for junior positions! Also, it's nice to finally move onto a new project even though I'm having some difficulty figuring out how to get this quote API working.
+
+**Link to tweet:** [Day 040](https://twitter.com/dusign/status/843221121021427715)
+
+### Day 41: March 20, 2017
+
+**Today's Progress**: Worked on the random quote app and finally got the AJAX requests to go through. Also started implementing the Unsplash API to get random background images.
+
+**Thoughts:** Learned that I can't make cross-origin api requests locally on my computer - don't know how I missed this piece of information before! This random quote app is coming together pretty quickly, so hopefully I can finish up and share it tomorrow.
+
+**Link to tweet:** [Day 041](https://twitter.com/dusign/status/844014639797231616)
