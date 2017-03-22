@@ -335,3 +335,11 @@
 **Thoughts:** Learned that I can't make cross-origin api requests locally on my computer - don't know how I missed this piece of information before! This random quote app is coming together pretty quickly, so hopefully I can finish up and share it tomorrow.
 
 **Link to tweet:** [Day 041](https://twitter.com/dusign/status/844014639797231616)
+
+### Day 42: March 21, 2017
+
+**Today's Progress**: Finished the random quote app! Added and customized a Twitter web intent button to share the quote and finished styling the page.
+
+**Thoughts:** I'm very happy with the way this page turned out! It looks and works great - the only thing that bothers me is that Unsplash is limiting me to only 50 requests per hour. I've submitted screenshots to prove that I gave them credit for the photos, so hopefully that will be approved soon and I will be bumped up to 500 requests per hour! I think the trickiest part of this project was figuring out how to format the quote text to share in a tweet. My solution isn't perfect, but it seems to work perfectly, so I'm just going to leave it at that.
+
+**Link to tweet:** [Day 042](https://twitter.com/dusign/status/844358995796262913)
