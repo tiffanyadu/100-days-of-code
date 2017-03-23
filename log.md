@@ -343,3 +343,11 @@
 **Thoughts:** I'm very happy with the way this page turned out! It looks and works great - the only thing that bothers me is that Unsplash is limiting me to only 50 requests per hour. I've submitted screenshots to prove that I gave them credit for the photos, so hopefully that will be approved soon and I will be bumped up to 500 requests per hour! I think the trickiest part of this project was figuring out how to format the quote text to share in a tweet. My solution isn't perfect, but it seems to work perfectly, so I'm just going to leave it at that.
 
 **Link to tweet:** [Day 042](https://twitter.com/dusign/status/844358995796262913)
+
+### Day 43: March 22, 2017
+
+**Today's Progress**: Got halfway through the Pure CSS Images course by CodingArtist. Learned about Pug, an HTML preprocessor, and SCSS, a CSS preprocessor.
+
+**Thoughts:** I can't believe I've never known about these preprocessors, but I wonder if it's something that front-end developers use at work typically? They make writing HTML and CSS SO much better because it's more modular and less repetitive. Can't wait to start creating some CSS images of my own - it looks like fun!
+
+**Link to tweet:** [Day 043](https://twitter.com/dusign/status/844740730216235009)
