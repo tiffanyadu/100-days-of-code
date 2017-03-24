@@ -328,6 +328,8 @@
 
 **Link to tweet:** [Day 040](https://twitter.com/dusign/status/843221121021427715)
 
+**Link to work:** [Portfolio Website](http://tiffanydu.com)
+
 ### Day 41: March 20, 2017
 
 **Today's Progress**: Worked on the random quote app and finally got the AJAX requests to go through. Also started implementing the Unsplash API to get random background images.
@@ -335,6 +337,8 @@
 **Thoughts:** Learned that I can't make cross-origin api requests locally on my computer - don't know how I missed this piece of information before! This random quote app is coming together pretty quickly, so hopefully I can finish up and share it tomorrow.
 
 **Link to tweet:** [Day 041](https://twitter.com/dusign/status/844014639797231616)
+
+**Link to work:** [Random Design Quotes](https://codepen.io/tiffanyadu/pen/MpQOVQ)
 
 ### Day 42: March 21, 2017
 
@@ -344,6 +348,8 @@
 
 **Link to tweet:** [Day 042](https://twitter.com/dusign/status/844358995796262913)
 
+**Link to work:** [Random Design Quotes](https://codepen.io/tiffanyadu/pen/MpQOVQ)
+
 ### Day 43: March 22, 2017
 
 **Today's Progress**: Got halfway through the Pure CSS Images course by CodingArtist. Learned about Pug, an HTML preprocessor, and SCSS, a CSS preprocessor.
@@ -351,3 +357,13 @@
 **Thoughts:** I can't believe I've never known about these preprocessors, but I wonder if it's something that front-end developers use at work typically? They make writing HTML and CSS SO much better because it's more modular and less repetitive. Can't wait to start creating some CSS images of my own - it looks like fun!
 
 **Link to tweet:** [Day 043](https://twitter.com/dusign/status/844740730216235009)
+
+### Day 44: March 23, 2017
+
+**Today's Progress**: Finished the Pure CSS Images course by CodingArtist and learned about Vue.js. Followed the tutorials to build and animate a Nintendo Switch, then created the Chicago flag on my own.
+
+**Thoughts:** Got really irritated because my code wasn't working. I thought it was something wrong with the vue.js code and wasted over an hour trying to find what's wrong. Turns out I accidentally put a "#" with the html id name, so that's why the vue code wasn't working either. Anyways, this course was actually pretty great! I was always intimidated by CSS animations and using keyframes and such, but it was actually pretty easy. I never thought creating pure CSS images would be so fun!
+
+**Link to tweet:** [Day 043](https://twitter.com/dusign/status/845113282860122113)
+
+**Link to work:** [CSS Chicago Flag](https://codepen.io/tiffanyadu/pen/YZvGaz)
