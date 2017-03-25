@@ -364,6 +364,14 @@
 
 **Thoughts:** Got really irritated because my code wasn't working. I thought it was something wrong with the vue.js code and wasted over an hour trying to find what's wrong. Turns out I accidentally put a "#" with the html id name, so that's why the vue code wasn't working either. Anyways, this course was actually pretty great! I was always intimidated by CSS animations and using keyframes and such, but it was actually pretty easy. I never thought creating pure CSS images would be so fun!
 
-**Link to tweet:** [Day 043](https://twitter.com/dusign/status/845113282860122113)
+**Link to tweet:** [Day 044](https://twitter.com/dusign/status/845113282860122113)
 
 **Link to work:** [CSS Chicago Flag](https://codepen.io/tiffanyadu/pen/YZvGaz)
+
+### Day 45: March 24, 2017
+
+**Today's Progress**: Completed the Build a Simple Dynamic Site with Node.js course at Treehouse. Learned how to create a server, request api data, dynamically build a page, and render it to a browser.
+
+**Thoughts:** The node.js docs will take some time to get used to since there's so much information, but I think I still got a decent intro to how to use it through this course. I want to continue building on these skills so maybe I'll work on the projects that the teacher recommended.
+
+**Link to tweet:** [Day 045](https://twitter.com/dusign/status/845462442788433921)
