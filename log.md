@@ -375,3 +375,11 @@
 **Thoughts:** The node.js docs will take some time to get used to since there's so much information, but I think I still got a decent intro to how to use it through this course. I want to continue building on these skills so maybe I'll work on the projects that the teacher recommended.
 
 **Link to tweet:** [Day 045](https://twitter.com/dusign/status/845462442788433921)
+
+### Day 46: March 25, 2017
+
+**Today's Progress**: Started building the weather app project for FreeCodeCamp.
+
+**Thoughts:** Feeling very comfortable using jQuery to make AJAX requests to APIs. I wonder if this is a terrible crutch though? Thinking that maybe I should learn how to do this with vanilla JavaScript, but I just can't help myself because jQuery makes it SO simple.
+
+**Link to tweet:** [Day 046](https://twitter.com/dusign/status/845804071110037505)
