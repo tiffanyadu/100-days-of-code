@@ -378,8 +378,20 @@
 
 ### Day 46: March 25, 2017
 
-**Today's Progress**: Started building the weather app project for FreeCodeCamp.
+**Today's Progress**: Started building the weather app project for FreeCodeCamp and got the Wunderground API set up and working.
 
 **Thoughts:** Feeling very comfortable using jQuery to make AJAX requests to APIs. I wonder if this is a terrible crutch though? Thinking that maybe I should learn how to do this with vanilla JavaScript, but I just can't help myself because jQuery makes it SO simple.
 
 **Link to tweet:** [Day 046](https://twitter.com/dusign/status/845804071110037505)
+
+### Day 47: March 26, 2017
+
+**Today's Progress**: Continued with the weather app project for FreeCodeCamp. Fine tuned the type of weather data I want to use and also got geolocation API working.
+
+**Thoughts:** This is my first time ever using the HTML5 geolocation API! I don't know how I ever avoided it, but luckily it's not too difficult to use. Mozilla MDN and W3Schools have great documentation and examples of this, so I was able to figure it out on my own. Think I need to write some extra code for various cases like these though:
+
+* The user's browser doesn't support geolocation.
+* The user denied permission to access location.
+* The user is not viewing a secure (HTTPS) version of the site.
+
+**Link to tweet:** [Day 047](https://twitter.com/dusign/status/846226049469960192)
