@@ -395,3 +395,61 @@
 * The user is not viewing a secure (HTTPS) version of the site.
 
 **Link to tweet:** [Day 047](https://twitter.com/dusign/status/846226049469960192)
+
+### Day 48: March 27, 2017
+
+**Today's Progress**: Worked on the weather app for a bit, but got stuck trying to figure out why it's suddenly throwing a 403 error.
+
+**Thoughts:** Can't figure out why it's showing a 403 error - I swear none of the changes I made today were that significant! I even tried commenting out different parts of the code to see if that fixes it, but nothing is working. Will have to take a look again tomorrow.
+
+**Link to tweet:** [Day 048](https://twitter.com/dusign/status/846574820359716865)
+
+### Day 49: March 28, 2017
+
+**Today's Progress**: Reorganized the content of the weather app and started styling the page.
+
+**Thoughts:** The weather app is working! I guess the 403 error had something to do with Chrome and not my code? SO happy to not spend any time debugging today.
+
+**Link to tweet:** [Day 049](https://twitter.com/dusign/status/846916792006119424)
+
+### Day 50: March 29, 2017
+
+**Today's Progress**: Added error and status messages to the weather app and styled the output.
+
+**Thoughts:** Can't believe I'm halfway through this challenge! It's been surprisingly addictive and I've learned so much already. Now, I'm excited to see how much more I accomplish over these final 50 days!
+
+**Link to tweet:** [Day 050](https://twitter.com/dusign/status/847264972350439425)
+
+### Day 51: March 30, 2017
+
+**Today's Progress**: Started working on the pure css weather icons for the weather app.
+
+**Thoughts:** This was a bit difficult to start because I wanted these icons to have minimal html markup and be mostly css. Luckily, I found an example of how someone else created a set of css icons using the :before and :after pseudo-elements. Took me a while to figure out how the positioning is inherited, but I think I finally got it! I think the framework is set up well enough that it will be pretty easy to create all the icons.
+
+**Link to tweet:** [Day 051](https://twitter.com/dusign/status/847660584539537411)
+
+### Day 52: March 31, 2017
+
+**Today's Progress**: Continued working on the css weather icons.
+
+**Thoughts:** Didn't have very much time to work on this today, but I did manage to finish a few weather icons. Will try to spend more time on this tomorrow!
+
+**Link to tweet:** [Day 052](https://twitter.com/dusign/status/848040454029553664)
+
+### Day 53: April 2, 2017
+
+**Today's Progress**: Completed a few more css weather icons.
+
+**Thoughts:** I guess it's pretty difficult for me to work on anything on the weekend since this is the only time of the week that I really get to spend with my husband. At least I got an hour in though! I usually spend a lot more time coding during the weekdays, so I think I deserve a day off once in a while.
+
+**Link to tweet:** [Day 053](https://twitter.com/dusign/status/848712395879002112)
+
+### Day 54: April 3, 2017
+
+**Today's Progress**: Finished the whole set of pure css weather icons!
+
+**Thoughts:** So excited to be done with these! I think they turned out pretty well, although I had some difficulty picking colors that gave enough contrast with the background. Time to get back to the weather app and finish that up!
+
+**Link to tweet:** [Day 054](https://twitter.com/dusign/status/849052785844903936)
+
+**Link to work:** [CSS Weather Icons](https://codepen.io/tiffanyadu/pen/OprNrV)
