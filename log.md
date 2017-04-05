@@ -453,3 +453,11 @@
 **Link to tweet:** [Day 054](https://twitter.com/dusign/status/849052785844903936)
 
 **Link to work:** [CSS Weather Icons](https://codepen.io/tiffanyadu/pen/OprNrV)
+
+### Day 55: April 4, 2017
+
+**Today's Progress**: Back on the weather app. Cleaned up my code a bit, rendered the weather icons to the page, and added a few styles.
+
+**Thoughts:** Found out that my pure css weather icons got featured on CodePen today! Feeling proud, but also very distracted. Also, I think I might be able to finish the weather app tomorrow! Just need to write a couple more functions, then all that's left is to style it.
+
+**Link to tweet:** [Day 055](https://twitter.com/dusign/status/849468760411045888)
