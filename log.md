@@ -461,3 +461,23 @@
 **Thoughts:** Found out that my pure css weather icons got featured on CodePen today! Feeling proud, but also very distracted. Also, I think I might be able to finish the weather app tomorrow! Just need to write a couple more functions, then all that's left is to style it.
 
 **Link to tweet:** [Day 055](https://twitter.com/dusign/status/849468760411045888)
+
+### Day 56: April 5, 2017
+
+**Today's Progress**: Rewrote about half my functions to get the temperature units toggle working. Put the weather data in the global scope and separated the code that printed temperatures to the page into its own function. Also got a lot of styling done.
+
+**Thoughts:** Realized that with the way I had my code set up, it would take a lot more code to get the unit toggle working, so I had to rework it to keep the code DRY. Maybe I should have planned this out a bit better, but it's a still a bit difficult for me to see that far ahead. Slowly getting better at this.
+
+**Link to tweet:** [Day 056](https://twitter.com/dusign/status/849815622074683393)
+
+### Day 57: April 6, 2017
+
+**Today's Progress**: Finished styling the weather app and making it responsive. Added code that tells user to share location with a status message and button animation. Weather app is officially done!
+
+**Thoughts:** I'm pretty happy with the way this turned out! It's kind of like two projects in one for me since I also created that set of CSS weather icons in the process. Excited to move on to the next project!
+
+**Link to tweet:** [Day 057](https://twitter.com/dusign/status/850075864926703616)
+
+**Link to CodePen:** [Weather App](https://codepen.io/tiffanyadu/pen/qryXBo)
+
+**Link to GitHub Page:** [Weather App](https://tiffanyadu.github.io/weather-app/)
