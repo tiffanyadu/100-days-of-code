@@ -481,3 +481,51 @@
 **Link to CodePen:** [Weather App](https://codepen.io/tiffanyadu/pen/qryXBo)
 
 **Link to GitHub Page:** [Weather App](https://tiffanyadu.github.io/weather-app/)
+
+### Day 58: April 7, 2017
+
+**Today's Progress**: Found a series of YouTube video tutorials for WebGL. Watched and followed along with the first one to make a simple triangle with colors. Learned how to create shapes and apply color to them.
+
+**Thoughts:** WebGL is looking pretty complicated so far. It might be a while before I can make anything on my own that's worth sharing.
+
+**Link to tweet:** [Day 058](https://twitter.com/dusign/status/850512389913153536)
+
+### Day 59: April 9, 2017
+
+**Today's Progress**: Another WebGL tutorial today - made a rotating cube. Learned how to create a 3D shape, change the camera distance, and change the rotation angle and speed.
+
+**Thoughts:** I'm starting to understand the very basics of this. It's cool to be able to make these 3D graphics for the web, but I'm interested in knowing how to make more complex shapes and animations.
+
+**Link to tweet:** [Day 059](https://twitter.com/dusign/status/851219345061670912)
+
+### Day 60: April 10, 2017
+
+**Today's Progress**: Not a lot of progress today. Learned how to map and apply textures to my cube.
+
+**Thoughts:** My rotating cube is looking pretty cool! I just wish I was progressing faster with this. Learning WebGL is pretty exhausting and not so fun at the moment because it's so complex and foreign to me.
+
+**Link to tweet:** [Day 060](https://twitter.com/dusign/status/851666430609297409)
+
+### Day 61: April 11, 2017
+
+**Today's Progress**: Learned how to load external meshes and shaders, then got stuck in a bug.
+
+**Thoughts:** Bugs always suck, but they suck extra when I don't really know what I'm doing yet. It might have something to do with the fact that I need a local server in order to view this WebGL project now, but I really can't figure out why my code doesn't work. I'll need to compare my code to the tutorial tomorrow when I'm not so tired.
+
+**Link to tweet:** [Day 061](https://twitter.com/dusign/status/852006872219439104)
+
+### Day 62: April 12, 2017
+
+**Today's Progress**: Switched over to try and finish the Treehouse Front-End Developer track. Watched the course on web accessibility.
+
+**Thoughts:** I just noticed that I'm only 7 hours away from finishing this track, so I thought, why not try and complete it? It's kind of an excuse to _not_ look at that WebGL bug, but hey, at least I'm still trying to be productive and learn something, right?
+
+**Link to tweet:** [Day 062](https://twitter.com/dusign/status/852341592757350400)
+
+### Day 63: April 21, 2017
+
+**Today's Progress**: Continued with the Treehouse FED track. Finished the Web Accessibility and HTML Video & Audio courses, as well as the MediaElement.js workshop.
+
+**Thoughts:** Visited family in Houston and started a new job, so I had to take a break from this. I feel bad missing 8 whole days, but it was tough to have the mental capacity to learn after working. Glad to finally be back - I really need to get back in the rhythm of things.
+
+**Link to tweet:** [Day 063](https://twitter.com/dusign/status/855563912917512192)
