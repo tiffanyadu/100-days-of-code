@@ -529,3 +529,11 @@
 **Thoughts:** Visited family in Houston and started a new job, so I had to take a break from this. I feel bad missing 8 whole days, but it was tough to have the mental capacity to learn after working. Glad to finally be back - I really need to get back in the rhythm of things.
 
 **Link to tweet:** [Day 063](https://twitter.com/dusign/status/855563912917512192)
+
+### Day 64: April 22, 2017
+
+**Today's Progress**: Finally went back and finished the WebGL tutorial about loading external meshes and shaders. Fixed some minor bugs and got everything working!
+
+**Thoughts:** Figured out that the "bugs" in my code were a few extra quotes and a comma that I forgot to delete. No big deal. Happy to have this working - I can now move on to the next step: Lighting.
+
+**Link to tweet:** [Day 064](https://twitter.com/dusign/status/855888727192870912)
