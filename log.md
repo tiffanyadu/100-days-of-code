@@ -537,3 +537,11 @@
 **Thoughts:** Figured out that the "bugs" in my code were a few extra quotes and a comma that I forgot to delete. No big deal. Happy to have this working - I can now move on to the next step: Lighting.
 
 **Link to tweet:** [Day 064](https://twitter.com/dusign/status/855888727192870912)
+
+### Day 65: April 23, 2017
+
+**Today's Progress**: Completed Website Optimization and began Console Foundations courses at Treehouse. Continued with WebGL videos and learned how to apply lighting to the model.
+
+**Thoughts:** When I saw that the website optimization course will be going over Chrome dev tools, I didn't think I would learn much - I was wrong. I got more familiar with the panels that I don't normally use and learned how useful they really are for testing a website's performance. Regarding WebGL, it's amazing what a bit of lighting can do to give the model more depth and dimension! Excited to learn more!
+
+**Link to tweet:** [Day 065](https://twitter.com/dusign/status/856272353579462659)
