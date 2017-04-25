@@ -545,3 +545,11 @@
 **Thoughts:** When I saw that the website optimization course will be going over Chrome dev tools, I didn't think I would learn much - I was wrong. I got more familiar with the panels that I don't normally use and learned how useful they really are for testing a website's performance. Regarding WebGL, it's amazing what a bit of lighting can do to give the model more depth and dimension! Excited to learn more!
 
 **Link to tweet:** [Day 065](https://twitter.com/dusign/status/856272353579462659)
+
+### Day 66: April 24, 2017
+
+**Today's Progress**: Watched a few more videos from the Console Foundations course and learned the following commands: less, cat, mv, rm, mkdir. Also started a new WebGL mini-series, but didn't get very far yet.
+
+**Thoughts:** I probably should have went through the Console Foundations course before I started using GitHub - the command line is not so intimidating anymore.
+
+**Link to tweet:** [Day 066](https://twitter.com/dusign/status/856691921187729408)
