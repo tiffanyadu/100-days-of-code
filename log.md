@@ -553,3 +553,11 @@
 **Thoughts:** I probably should have went through the Console Foundations course before I started using GitHub - the command line is not so intimidating anymore.
 
 **Link to tweet:** [Day 066](https://twitter.com/dusign/status/856691921187729408)
+
+### Day 67: April 25, 2017
+
+**Today's Progress**: Continued with the Console Foundations course - learned how to create users, change file permissions, pause/resume/kill processes, and the sudo command.
+
+**Thoughts:** Pretty surpised that I can do all this in the command line, but I guess it makes sense considering this was how you used a computer before the GUI was invented. The commands are quite simple, but extremely powerful. The hard part will be remembering them all!
+
+**Link to tweet:** [Day 067](https://twitter.com/dusign/status/857065496675581952)
