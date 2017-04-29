@@ -577,3 +577,11 @@
 **Thoughts:** Feeling pretty frustrated with this tutorial. Even the original files from the author are throwing the same errors, so maybe the problem is that the tutorial is a bit outdated? Don't really know what I'm doing well enough to figure out how to fix this, but at least it's not me. Might have to abandon this project...
 
 **Link to tweet:** [Day 069](https://twitter.com/dusign/status/857784614303277057)
+
+### Day 70: April 29, 2017
+
+**Today's Progress**: Finished the Intro to Front End Performance Optimization course at Treehouse and completed the Front End Web Development track finally!
+
+**Thoughts:** So happy to finally finish this track, but feeling pretty underwhelmed with Treehouse. I finished a whole track, but there's nothing that signifies that achievement – just more of the usual, pointless badge reward system. Oh well.
+
+**Link to tweet:** [Day 070](https://twitter.com/dusign/status/858384765426257921)
