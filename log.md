@@ -561,3 +561,19 @@
 **Thoughts:** Pretty surpised that I can do all this in the command line, but I guess it makes sense considering this was how you used a computer before the GUI was invented. The commands are quite simple, but extremely powerful. The hard part will be remembering them all!
 
 **Link to tweet:** [Day 067](https://twitter.com/dusign/status/857065496675581952)
+
+### Day 68: April 26, 2017
+
+**Today's Progress**: Finished the Console Foundations course! Learned about environment variables, find, grep, pipes, and redirection.
+
+**Thoughts:** Loving the grep command – makes it so much easier to find and kill http servers!
+
+**Link to tweet:** [Day 068](https://twitter.com/dusign/status/857448791980605440)
+
+### Day 69: April 27, 2017
+
+**Today's Progress**: Back on WebGL tutorials. Following a series to make an interactive mandelbrot browser, but ran into a few errors.
+
+**Thoughts:** Feeling pretty frustrated with this tutorial. Even the original files from the author are throwing the same errors, so maybe the problem is that the tutorial is a bit outdated? Don't really know what I'm doing well enough to figure out how to fix this, but at least it's not me. Might have to abandon this project...
+
+**Link to tweet:** [Day 069](https://twitter.com/dusign/status/857784614303277057)
