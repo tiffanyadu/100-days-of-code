@@ -585,3 +585,59 @@
 **Thoughts:** So happy to finally finish this track, but feeling pretty underwhelmed with Treehouse. I finished a whole track, but there's nothing that signifies that achievement – just more of the usual, pointless badge reward system. Oh well.
 
 **Link to tweet:** [Day 070](https://twitter.com/dusign/status/858384765426257921)
+
+### Day 71: May 1, 2017
+
+**Today's Progress**: Picked back up on the Beginner Javascript Track at Treehouse. Finished the Introducing Template Literals workshop and started the DOM Scripting by Example course. Learned about template literals and interpolation.
+
+**Thoughts:** Excited to get back to JavaScript! I feel like I haven't thought like a programmer in a long time, so I'm having so much fun with this.
+
+**Link to tweet:** [Day 071](https://twitter.com/dusign/status/859258397073559552)
+
+### Day 72: May 2, 2017
+
+**Today's Progress**: Completed the DOM Scripting by Example course! Working on the extra credit challenges.
+
+**Thoughts:** Either I'm rusty or I need more sleep. Started working on the first extra credit challenge to prevent adding duplicate names to the RSVP page and finding it difficult.
+
+**Link to tweet:** [Day 072](https://twitter.com/dusign/status/859615032086323205)
+
+### Day 73: May 4, 2017
+
+**Today's Progress**: Continued working on the RSVP page extra credit and finished the first challenge of preventing duplicate names.
+
+**Thoughts:** Took me a while to figure it out, but I think I got it working well! Small victories are so satisfying.
+
+**Link to tweet:** [Day 073](https://twitter.com/dusign/status/860359131089297408)
+
+### Day 74: May 6, 2017
+
+**Today's Progress**: Still working on the RSVP page extra credit. Finished the Using Local Storage with JavaScript workshop at Treehouse and worked on saving the RSVP page state to local storage.
+
+**Thoughts:** It took all day to add the local storage feature, but it's nearly done now! The only thing left is to figure out how to get the checkboxes to display correctly on load.
+
+**Link to tweet:** [Day 074](https://twitter.com/dusign/status/861062493283790848)
+
+### Day 75: May 7, 2017
+
+**Today's Progress**: Worked on the RSVP page extra credit – found multiple bugs when trying to load the correct checkbox state.
+
+**Thoughts:** This is irritating...I thought it would be a simple task to get the checkbox states to show correctly on load, but turns out there are a few unexpected things happening. Can't deal with this right now so I'll have to look at this again later.
+
+**Link to tweet:** [Day 075](https://twitter.com/dusign/status/861343448149917697)
+
+### Day 76: May 8, 2017
+
+**Today's Progress**: Started the Exploring jQuery Plugins course at Treehouse – learned about the Animsition plugin.
+
+**Thoughts:** Needed a break from debugging so I decided to start this final course in the Beginner JavaScript track. Tried out the Animsition plugin to add various transition effects between web pages. So much fun!
+
+**Link to tweet:** [Day 076](https://twitter.com/dusign/status/861794343371362304)
+
+### Day 77: May 9, 2017
+
+**Today's Progress**: Finished the jQuery Plugins course and completed the Beginner JavaScript track at Treehouse! Then picked back up on the Full Stack JavaScript track and completed the Exploring JavaScript Conditionals course. Learned about short circuit evaluations and the new es6 format for assigning a default value to function parameters.
+
+**Thoughts:** Lots of great info here. It's very interesting that I can assign a default value to functions, so let's see if I can apply this in a real life project.
+
+**Link to tweet:** [Day 077](https://twitter.com/dusign/status/861997571488833536)
